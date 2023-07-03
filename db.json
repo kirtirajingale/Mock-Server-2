@@ -1,32 +1,20 @@
 {
-    "cars": [
-        {
-          "id": 1,
-          "brand": "Tata",
-                "type":"Manual",
-          "year": 2019,
-          "kms": 10000,
-          "Description": "Tata Altroz with all original documents",
-          "Price": 500000
-        },
-        {
-          "id": 2,
-          "brand": "Tata",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 800000
-        },
-        {
-            "id": 3,
-            "brand": "Maruti-800",
-                  "type":"AMT",
-            "year": 2015,
-            "kms": 7000,
-            "Description": "Maruti with all original documents",
-            "Price": 400000
-          }
-        
-      ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    }
+  ]
 }
